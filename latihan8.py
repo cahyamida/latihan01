@@ -14,4 +14,4 @@ class ComplexNumber:
 num1 = ComplexNumber(2, 3)
 
 num1.get_data()
-print (num1.glbl)
+print(num1.glbl)
