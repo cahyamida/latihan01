@@ -3,9 +3,9 @@ number = 16
 
 second_number = not 10
 
-first_array = [1,2]
+first_array = [1, 2]
 
-second_array = [1,2,3]
+second_array = [1, 2, 3]
 
 if number > 15:
     print("1")
@@ -37,4 +37,3 @@ if not second_number:
     print("6")
 else:
     print('You must print 6')
-
